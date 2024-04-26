@@ -36,5 +36,6 @@ Este é um simples jogo de RPG desenvolvido em C, onde você pode escolher sua c
 
 - Este é um projeto simples desenvolvido em C apenas para fins educacionais e recreativos.
 - Sinta-se à vontade para modificar e expandir o jogo de acordo com suas preferências e habilidades em programação.
+- Tenha em mente que essa ainda é a primiera versão do projeto, onde tudo ainda é bem simple. Caso encontre bugs, e pode ter certeza que há, fique a vontade para comentar
 
 
