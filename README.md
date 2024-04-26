@@ -37,10 +37,4 @@ Este é um simples jogo de RPG desenvolvido em C, onde você pode escolher sua c
 - Este é um projeto simples desenvolvido em C apenas para fins educacionais e recreativos.
 - Sinta-se à vontade para modificar e expandir o jogo de acordo com suas preferências e habilidades em programação.
 
-## Créditos
 
-Este jogo foi desenvolvido por pablo e é distribuído sob a licença [MIT]. Qualquer contribuição ou sugestão é bem-vinda.
-
----
-
-Sinta-se à vontade para adicionar mais detalhes ou informações específicas sobre o jogo antes de publicar o README em seu repositório do GitHub.
